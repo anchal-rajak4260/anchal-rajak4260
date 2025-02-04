@@ -23,14 +23,14 @@ I'm a passionate Java developer with a keen interest in building scalable and ef
    - **Features**: User input for city names, display of current weather conditions, 7-day forecast, weather maps.
    - **Repository**: [GitHub Link](https://github.com/anchal-rajak4260/Weather_App_Using_Java_Servlet_JSP)
 
-2. **E-commerce Platform**
-   - **Description**: A comprehensive e-commerce platform with features like product browsing, shopping cart, and secure checkout.
-   - **Features**: User authentication, product management, order processing, payment integration.
-   - **Repository**: [GitHub Link](#)
-
-3. **Library Management System**
+2. **Library Management System**
    - **Description**: A robust system for managing library operations including book cataloging, member management, and transaction tracking.
    - **Features**: Book search, issue/return management, overdue alerts, user roles.
+   - **Repository**: [GitHub Link](#)
+
+3. **E-commerce Platform**
+   - **Description**: A comprehensive e-commerce platform with features like product browsing, shopping cart, and secure checkout.
+   - **Features**: User authentication, product management, order processing, payment integration.
    - **Repository**: [GitHub Link](#)
 
 ---
