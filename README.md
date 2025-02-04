@@ -26,11 +26,14 @@ I'm a passionate Java developer with a keen interest in building scalable and ef
 2. **Library Management System**
    - **Description**: A robust system for managing library operations including book cataloging, member management, and transaction tracking.
    - **Features**: Book search, issue/return management, overdue alerts, user roles.
-   - **Repository**: [GitHub Link](#)
+   - **Repository**: [GitHub Link](https://github.com/anchal-rajak4260/LMS-Library-Management-System-)
 
-3. **E-commerce Platform**
-   - **Description**: A comprehensive e-commerce platform with features like product browsing, shopping cart, and secure checkout.
-   - **Features**: User authentication, product management, order processing, payment integration.
+3. **Smart Dustbin Project**
+   - **Description**: A Smart Dustbin System using Arduino is designed to automate waste management.
+     detects the presence of objects near the lid and opens it automatically, ensuring a touchless experience.
+   - **Features**:Sensors (like ultrasonic or weight sensors) measure the fill level of the bin and send alerts when it reaches a specified level.
+     Infrared or ultrasonic sensors detect the presence of an object (like a hand) near the lid and automatically open it.
+     User-Friendly Interface LEDs or LCD display to show the status of the bin. Efficient power usage with sleep modes and low-power components.
    - **Repository**: [GitHub Link](#)
 
 ---
