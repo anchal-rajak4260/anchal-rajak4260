@@ -9,7 +9,7 @@ I'm a passionate Java developer with a keen interest in building scalable and ef
 ### Skills
 
 - **Languages**: Java, JavaScript, HTML, CSS
-- **Frameworks**: Spring, Hibernate, JSP/Servlets
+- **Frameworks**: JSP/Servlets
 - **Databases**: MySQL.
 - **Tools**: Eclipse, IntelliJ IDEA, Git, Maven.
 - **APIs**: RESTful Web Services, OpenWeatherMap API, Google Maps API
