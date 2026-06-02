@@ -51,6 +51,27 @@ Here are some ideas to get you started:
 * Restaurent Management System
 * Weeather App using API
 * Inventory Management System
+  
+## 📚 Currently Learning
+
+* Machine Learning
+
+* Advanced SQL
+
+* Data Warehousing
+
+* Cloud Technologies for Data Analytics
+
+* Statistics for Data Science
+
+  
+---
+
+## 🎯 Career Objective
+
+Seeking opportunities in Data Analytics where I can leverage analytical thinking, technical skills, and business understanding to deliver impactful insights and support data-driven decision-making.
+
+---
 
 ## Connect With Me
 
