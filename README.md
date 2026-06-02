@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **anchal-rajak4260/anchal-rajak4260** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,13 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Anchal Rajak 👋
 
 ## About Me
 
 * 📊 Aspiring Data Analyst
 * 💼 Former Java Developer Intern
-* 🐍 Skilled in Python, SQL, Excel, Power BI
+* 🐍 Skilled in Python, Java, SQL, Excel, Power BI
+* 🌱 Numpy, Pandas, Matplotlab, Seaborn
 * 📈 Interested in Data Visualization, Business Intelligence, and Data-Driven Decision Making
 
 ## Technical Skills
@@ -43,18 +42,16 @@ Here are some ideas to get you started:
 
 ### Data Analytics Projects
 
-* Sales Dashboard using Power BI
-* Customer Churn Analysis
+* Retail Sales Dashboard using Power BI
 * Exploratory Data Analysis using Python
 * SQL Business Insights Project
 
 ### Java Projects
 
-* Student Management System
-* Banking Application
+* Restaurent Management System
+* Weeather App using API
 * Inventory Management System
 
 ## Connect With Me
 
-* LinkedIn: [Your LinkedIn URL]
-* Email: [Your Email]
+* Email: anchalrajak16@gmail.com
