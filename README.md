@@ -26,7 +26,7 @@ class DataScientist:
         self.location    = "Kanpur, Uttar Pradesh, India 🇮🇳"
         self.education   = "AI/ML • Data Analytics • Data Science "
         self.focus       = ["Data Analytics", "AI", "Machine Learning", "NLP", ]
-        self.tools       = ["Python", "SQL", "Power BI", "NumPy", "Pandas", "Matplotlib",
+        self.tools       = ["Python", "Java", "SQL", "Power BI", "NumPy", "Pandas", "Matplotlib",
                             "Seaborn", "Plotly", "Streamlit"]
         self.available   = True  # Open to Data Analyst / Data Science roles ✅
 
@@ -79,14 +79,6 @@ me.say_hello()
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4BACC6?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-**ML / AI Frameworks**
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1F4E79?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2E75B6?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-4BACC6?style=for-the-badge&logo=pytorch&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-1F4E79?style=for-the-badge&logo=xgboost&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-2E75B6?style=for-the-badge&logo=chainlink&logoColor=white)
-
 **Data & Visualization**
 
 ![Pandas](https://img.shields.io/badge/Pandas-1F4E79?style=for-the-badge&logo=pandas&logoColor=white)
@@ -95,9 +87,14 @@ me.say_hello()
 ![Plotly](https://img.shields.io/badge/Plotly-1F4E79?style=for-the-badge&logo=plotly&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+**ML / AI Frameworks**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2E75B6?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-4BACC6?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-2E75B6?style=for-the-badge&logo=chainlink&logoColor=white)
+
 **Web & Deployment**
 
-![Flask](https://img.shields.io/badge/Flask-1F4E79?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-2E75B6?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-4BACC6?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-1F4E79?style=for-the-badge&logo=github&logoColor=white)
@@ -126,21 +123,13 @@ me.say_hello()
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anchal-rajak4260&theme=tokyonight&no-frame=true&column=6&margin-w=10&title=Stars,Commits,Repositories,Followers,Issues,PullRequest" />
-</div>
-
----
-
 ## 📚 Currently Learning & Building
 
 ```
-🔭 Working on   →  RAG Chatbot with LangChain + FAISS + LLM
-🌱 Learning     →  MLOps | BERTopic | SHAP Explainability | YOLOv8
+🔭 Working on   →  Matplotlib + Pandas + NumPy + Plotly + AI + ML 
+🌱 Learning     →  TensorFlow | PyTorch | LangChain | RAG
 ⚡ Exploring    →  Autonomous AI Agents | Prophet Forecasting
-🎯 Goal 2025    →  Land Data Analyst / ML Engineer role
+🎯 Goal 2026    →  Land Data Analyst / ML Engineer role
 ```
 
 ---
@@ -149,9 +138,9 @@ me.say_hello()
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1F4E79?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anchal-rajak4260)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1F4E79?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anchal-rajak-a84324263?)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-2E75B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anchal-rajak4260)
-[![Email](https://img.shields.io/badge/Email-Hire%20Me-4BACC6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anchal.rajak4260@email.com)
+[![Email](https://img.shields.io/badge/Email-Hire%20Me-4BACC6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anchalrajak16@email.com)
 
 </div>
 
@@ -159,7 +148,7 @@ me.say_hello()
 
 <div align="center">
 
-> *"Without data, you're just another person with an opinion."*  — W. Edwards Deming
+> *"Without data, you're just another person with an opinion."* 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E75B6,50:1F4E79,100:0D1117&height=120&section=footer"/>
 
