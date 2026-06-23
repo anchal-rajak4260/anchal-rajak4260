@@ -76,3 +76,194 @@ Seeking opportunities in Data Analytics where I can leverage analytical thinking
 ## Connect With Me
 
 * Email: anchalrajak16@gmail.com
+
+
+
+
+
+
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F4E79,100:2E75B6&height=200&section=header&text=Anchal%20Rajak&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Analytics%20Specialist&descSize=18&descAlignY=58&animation=fadeIn" />
+
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2E75B6&center=true&vCenter=true&multiline=false&width=600&lines=Turning+Raw+Data+into+Real+Decisions+%F0%9F%93%8A;Building+ML+Models+that+Actually+Work+%F0%9F%A4%96;Passionate+about+AI+%2B+Analytics+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Profile Badges -->
+[![GitHub followers](https://img.shields.io/github/followers/anchal-rajak4260?style=social)](https://github.com/anchal-rajak4260)
+[![Profile Views](https://komarev.com/ghpvc/?username=anchal-rajak4260&color=1F4E79&style=flat-square&label=Profile+Views)](https://github.com/anchal-rajak4260)
+
+</div>
+
+---
+
+## 🧠 About Me
+
+```python
+class DataScientist:
+    def __init__(self):
+        self.name        = "Anchal Rajak"
+        self.role        = "Data Scientist & Analytics Engineer"
+        self.location    = "Kanpur, Uttar Pradesh, India 🇮🇳"
+        self.education   = "AI/ML • Data Science • Operations & Maintenance"
+        self.focus       = ["Machine Learning", "NLP", "Data Analytics", "MLOps"]
+        self.tools       = ["Python", "SQL", "Power BI", "scikit-learn", "Flask"]
+        self.currently   = "Building AI-powered apps & analyst portfolio"
+        self.available   = True  # Open to Data Analyst / ML Engineer roles ✅
+
+    def say_hello(self):
+        print("Hi! I transform messy data into insights that drive decisions.")
+
+me = DataScientist()
+me.say_hello()
+```
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🧘 Sukoon – Mental Health Chatbot</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/NLP-TF--IDF%20%2B%20LogReg-1F4E79?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Backend-Flask-2E75B6?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Frontend-HTML%2FCSS%2FJS-4BACC6?style=flat-square"/>
+      </p>
+      <p>AI-powered student mental health companion with mood tracking, built end-to-end using scikit-learn pipeline, Flask backend, and polished frontend. Intent classification with TF-IDF + Logistic Regression.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📊 Retail Sales Analytics Dashboard</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Database-PostgreSQL-1F4E79?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Viz-Excel%20Dashboard-2E75B6?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Analysis-Pandas-4BACC6?style=flat-square"/>
+      </p>
+      <p>End-to-end retail analytics: PostgreSQL data pipeline, Excel KPI dashboard (Vrinda Store), and actionable business insights across revenue, seasonality, and customer segments.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🤖 Portfolio & Resume Generator</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Framework-Streamlit-1F4E79?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Templates-Jinja2-2E75B6?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Export-PDF-4BACC6?style=flat-square"/>
+      </p>
+      <p>Dynamic resume/portfolio generator built with Streamlit + Jinja2. Supports custom templates, PDF export, and live preview — designed to stand out in job applications.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📈 Stock Prediction – LSTM + Sentiment</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Model-LSTM-1F4E79?style=flat-square"/>
+        <img src="https://img.shields.io/badge/NLP-Sentiment%20Analysis-2E75B6?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Viz-Plotly%20Dash-4BACC6?style=flat-square"/>
+      </p>
+      <p>Hybrid stock forecasting system combining LSTM time-series model with news sentiment analysis. Interactive Plotly Dash dashboard for real-time predictions and signal visualization.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+**Languages & Data**
+
+![Python](https://img.shields.io/badge/Python-1F4E79?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-2E75B6?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4BACC6?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+**ML / AI Frameworks**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1F4E79?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2E75B6?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-4BACC6?style=for-the-badge&logo=pytorch&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-1F4E79?style=for-the-badge&logo=xgboost&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-2E75B6?style=for-the-badge&logo=chainlink&logoColor=white)
+
+**Data & Visualization**
+
+![Pandas](https://img.shields.io/badge/Pandas-1F4E79?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-2E75B6?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-4BACC6?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-1F4E79?style=for-the-badge&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+**Web & Deployment**
+
+![Flask](https://img.shields.io/badge/Flask-1F4E79?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-2E75B6?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-4BACC6?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-1F4E79?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anchal-rajak4260&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=2E75B6&icon_color=4BACC6&text_color=ffffff&border_color=1F4E79&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anchal-rajak4260&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=2E75B6&text_color=ffffff&border_color=1F4E79&langs_count=8"/>
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anchal-rajak4260&theme=tokyonight&background=0D1117&ring=2E75B6&fire=4BACC6&currStreakLabel=2E75B6&border=1F4E79" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anchal-rajak4260&bg_color=0D1117&color=4BACC6&line=2E75B6&point=ffffff&area=true&hide_border=true" />
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anchal-rajak4260&theme=tokyonight&no-frame=true&column=6&margin-w=10&title=Stars,Commits,Repositories,Followers,Issues,PullRequest" />
+</div>
+
+---
+
+## 📚 Currently Learning & Building
+
+```
+🔭 Working on   →  RAG Chatbot with LangChain + FAISS + LLM
+🌱 Learning     →  MLOps | BERTopic | SHAP Explainability | YOLOv8
+⚡ Exploring    →  Autonomous AI Agents | Prophet Forecasting
+🎯 Goal 2025    →  Land Data Analyst / ML Engineer role
+```
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1F4E79?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anchal-rajak4260)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-2E75B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anchal-rajak4260)
+[![Email](https://img.shields.io/badge/Email-Hire%20Me-4BACC6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anchal.rajak4260@email.com)
+
+</div>
+
+---
+
+<div align="center">
+
+> *"Without data, you're just another person with an opinion."*  — W. Edwards Deming
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E75B6,50:1F4E79,100:0D1117&height=120&section=footer"/>
+
+</div>
+
