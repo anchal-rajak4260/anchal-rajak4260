@@ -26,7 +26,8 @@ class DataScientist:
         self.location    = "Kanpur, Uttar Pradesh, India 🇮🇳"
         self.education   = "AI/ML • Data Analytics • Data Science "
         self.focus       = ["Data Analytics", "AI", "Machine Learning", "NLP", ]
-        self.tools       = ["Python", "SQL", "Power BI", "NumPy", "Pandas", "Matplotlib", "Seaborn", "Plotly", "Streamlit"]
+        self.tools       = ["Python", "SQL", "Power BI", "NumPy", "Pandas", "Matplotlib",
+                            "Seaborn", "Plotly", "Streamlit"]
         self.available   = True  # Open to Data Analyst / Data Science roles ✅
 
     def say_hello(self):
