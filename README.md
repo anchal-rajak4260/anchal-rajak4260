@@ -148,7 +148,7 @@ me.say_hello()
 
 <div align="center">
 
-> *"Without data, you're just another person with an opinion."* 
+> *"Without data, you're just another person with an opinion."* - Anchal Rajak
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E75B6,50:1F4E79,100:0D1117&height=120&section=footer"/>
 
