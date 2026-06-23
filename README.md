@@ -1,93 +1,9 @@
-<!--
-**anchal-rajak4260/anchal-rajak4260** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi, I'm Anchal Rajak 👋
-
-## About Me
-
-* 📊 Aspiring Data Analyst
-* 💼 Former Java Developer Intern
-* 🐍 Skilled in Python, Java, SQL, Excel, Power BI
-* 🌱 Numpy, Pandas, Matplotlab, Seaborn
-* 📈 Interested in Data Visualization, Business Intelligence, and Data-Driven Decision Making
-
-## Technical Skills
-
-### Data Analytics
-
-* Python (Pandas, NumPy, Matplotlib, Seaborn)
-* SQL
-* Power BI
-* Excel
-* Data Cleaning & Visualization
-
-### Programming
-
-* Java
-* Object-Oriented Programming
-* Git & GitHub
-
-## Projects
-
-### Data Analytics Projects
-
-* Retail Sales Dashboard using Power BI
-* Exploratory Data Analysis using Python
-* SQL Business Insights Project
-
-### Java Projects
-
-* Restaurent Management System
-* Weeather App using API
-* Inventory Management System
-  
-## 📚 Currently Learning
-
-* Machine Learning
-
-* Advanced SQL
-
-* Data Warehousing
-
-* Cloud Technologies for Data Analytics
-
-* Statistics for Data Science
-
-  
----
-
-## 🎯 Career Objective
-
-Seeking opportunities in Data Analytics where I can leverage analytical thinking, technical skills, and business understanding to deliver impactful insights and support data-driven decision-making.
-
----
-
-## Connect With Me
-
-* Email: anchalrajak16@gmail.com
-
-
-
-
-
-
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F4E79,100:2E75B6&height=200&section=header&text=Anchal%20Rajak&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Analytics%20Specialist&descSize=18&descAlignY=58&animation=fadeIn" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2E75B6&center=true&vCenter=true&multiline=false&width=600&lines=Turning+Raw+Data+into+Real+Decisions+%F0%9F%93%8A;Building+ML+Models+that+Actually+Work+%F0%9F%A4%96;Passionate+about+AI+%2B+Analytics+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2E75B6&center=true&vCenter=true&multiline=false&width=600&lines=Turning+Raw+Data+into+Real+Decisions+%F0%9F%93%8A;Building+AL+Models+that+Actually+Work+%F0%9F%A4%96;Passionate+about+Data+Analytics+%2B+AI+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -106,13 +22,12 @@ Seeking opportunities in Data Analytics where I can leverage analytical thinking
 class DataScientist:
     def __init__(self):
         self.name        = "Anchal Rajak"
-        self.role        = "Data Scientist & Analytics Engineer"
+        self.role        = "Data Scientist & Analytics"
         self.location    = "Kanpur, Uttar Pradesh, India 🇮🇳"
-        self.education   = "AI/ML • Data Science • Operations & Maintenance"
-        self.focus       = ["Machine Learning", "NLP", "Data Analytics", "MLOps"]
-        self.tools       = ["Python", "SQL", "Power BI", "scikit-learn", "Flask"]
-        self.currently   = "Building AI-powered apps & analyst portfolio"
-        self.available   = True  # Open to Data Analyst / ML Engineer roles ✅
+        self.education   = "AI/ML • Data Analytics • Data Science "
+        self.focus       = ["Data Analytics", "AI", "Machine Learning", "NLP", ]
+        self.tools       = ["Python", "SQL", "Power BI", "NumPy", "Pandas", "Matplotlib", "Seaborn", "Plotly", "Streamlit"]
+        self.available   = True  # Open to Data Analyst / Data Science roles ✅
 
     def say_hello(self):
         print("Hi! I transform messy data into insights that drive decisions.")
