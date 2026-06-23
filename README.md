@@ -44,22 +44,13 @@ me.say_hello()
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🧘 Sukoon – Mental Health Chatbot</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/NLP-TF--IDF%20%2B%20LogReg-1F4E79?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Backend-Flask-2E75B6?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Frontend-HTML%2FCSS%2FJS-4BACC6?style=flat-square"/>
-      </p>
-      <p>AI-powered student mental health companion with mood tracking, built end-to-end using scikit-learn pipeline, Flask backend, and polished frontend. Intent classification with TF-IDF + Logistic Regression.</p>
-    </td>
-    <td width="50%">
       <h3 align="center">📊 Retail Sales Analytics Dashboard</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Database-PostgreSQL-1F4E79?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Database-SQL-1F4E79?style=flat-square"/>
         <img src="https://img.shields.io/badge/Viz-Excel%20Dashboard-2E75B6?style=flat-square"/>
         <img src="https://img.shields.io/badge/Analysis-Pandas-4BACC6?style=flat-square"/>
       </p>
-      <p>End-to-end retail analytics: PostgreSQL data pipeline, Excel KPI dashboard (Vrinda Store), and actionable business insights across revenue, seasonality, and customer segments.</p>
+      <p>End-to-end retail analytics: SQL data pipeline, Excel KPI dashboard (Vrinda Store), and actionable business insights across revenue, seasonality, and customer segments.</p>
     </td>
   </tr>
   <tr>
@@ -71,15 +62,6 @@ me.say_hello()
         <img src="https://img.shields.io/badge/Export-PDF-4BACC6?style=flat-square"/>
       </p>
       <p>Dynamic resume/portfolio generator built with Streamlit + Jinja2. Supports custom templates, PDF export, and live preview — designed to stand out in job applications.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📈 Stock Prediction – LSTM + Sentiment</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Model-LSTM-1F4E79?style=flat-square"/>
-        <img src="https://img.shields.io/badge/NLP-Sentiment%20Analysis-2E75B6?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Viz-Plotly%20Dash-4BACC6?style=flat-square"/>
-      </p>
-      <p>Hybrid stock forecasting system combining LSTM time-series model with news sentiment analysis. Interactive Plotly Dash dashboard for real-time predictions and signal visualization.</p>
     </td>
   </tr>
 </table>
