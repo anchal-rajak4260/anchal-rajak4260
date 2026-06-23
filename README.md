@@ -1,5 +1,5 @@
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F4E79,100:2E75B6&height=200&section=header&text=Anchal%20Rajak&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20Science%20%7C%20Analytics%20Specialist&descSize=18&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F4E79,100:2E75B6&height=200&section=header&text=Anchal%20Rajak&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20ML%20Engineer%20%7C%20Analytics%20Specialist&descSize=18&descAlignY=58&animation=fadeIn" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
