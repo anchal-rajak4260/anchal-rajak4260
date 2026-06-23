@@ -35,7 +35,14 @@ class DataScientist:
 
 me = DataScientist()
 me.say_hello()
+
 ```
+
+### 💼 Open to Opportunities
+
+![Data Analyst](https://img.shields.io/badge/🎯_Data_Analyst-Available-2E75B6?style=for-the-badge)
+![BI Analyst](https://img.shields.io/badge/📊_BI_Analyst-Available-1F4E79?style=for-the-badge)
+![ML Engineer](https://img.shields.io/badge/🤖_ML_Engineer-Available-4BACC6?style=for-the-badge)
 
 ---
 
