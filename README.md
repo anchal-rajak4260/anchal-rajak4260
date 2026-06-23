@@ -83,6 +83,7 @@ me.say_hello()
 
 ![Python](https://img.shields.io/badge/Python-1F4E79?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-2E75B6?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4BACC6?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
